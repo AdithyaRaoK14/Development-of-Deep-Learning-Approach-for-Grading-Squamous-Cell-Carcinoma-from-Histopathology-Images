@@ -1,4 +1,4 @@
-# Development-of-Deep-Learning-Approach-for-Grading-Squamous-Cell-Carcinoma-from-Histopathology-Images
+# Lung-Cancer-Subtype-Classification
 
 # Deep Learning–Based Grading of Squamous Cell Carcinoma
 
